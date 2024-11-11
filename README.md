@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   <br />
     <a href="https://youtu.be/kRQbRAJ4-Fs" target="_blank">
       <img src="https://i.postimg.cc/37PnQw8n/Image-from.png" alt="Project Banner">
@@ -14,7 +14,7 @@
   <h3 align="center">Iphone 15 Website</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
+     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/channel/UC7CvtTx2rRW9vYYyiRgJp8A" target="_blank"><b>Wajahat Ali</b></a> YouTube. Join the WA family!
     </div>
 </div>
 
